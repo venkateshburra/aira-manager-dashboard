@@ -25,5 +25,4 @@ A responsive dashboard UI built from a Figma design using React, Tailwind CSS, a
 
 ```bash
 npm install
-npm run dev
->>>>>>> 872804de1c332ca518af45bf3fc63ded551f8840
+npm run dev 
