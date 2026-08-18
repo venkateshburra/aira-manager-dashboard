@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Task Manager
 
 A simple Full Stack Task Manager application built using **React, Node.js, Express.js, and MongoDB**. The application supports basic CRUD operations for managing tasks.
@@ -88,3 +89,32 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
 >>>>>>> 0a5f49a (Initial dashboard implementation)
+=======
+# AIRA Dashboard
+
+A responsive dashboard UI built from a Figma design using React, Tailwind CSS, and React Router.
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- React Icons
+
+## Features
+
+- Responsive dashboard layout
+- Fixed responsive sidebar navigation
+- Needs Attention
+- Needs Attention details
+- Emerging Risks
+- Execution Health
+- Responsive design across screen sizes
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+>>>>>>> 872804de1c332ca518af45bf3fc63ded551f8840
